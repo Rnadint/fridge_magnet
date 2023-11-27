@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Rnadint/fridge_magnet/static/css/main.84d57157.css",
-    "main.js": "/Rnadint/fridge_magnet/static/js/main.2cc7c448.js",
-    "service-worker.js": "/Rnadint/fridge_magnet/service-worker.js",
-    "index.html": "/Rnadint/fridge_magnet/index.html",
-    "main.84d57157.css.map": "/Rnadint/fridge_magnet/static/css/main.84d57157.css.map",
-    "main.2cc7c448.js.map": "/Rnadint/fridge_magnet/static/js/main.2cc7c448.js.map"
+    "main.css": "/static/css/main.84d57157.css",
+    "main.js": "/static/js/main.8726e6cd.js",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.84d57157.css.map": "/static/css/main.84d57157.css.map",
+    "main.8726e6cd.js.map": "/static/js/main.8726e6cd.js.map"
   },
   "entrypoints": [
     "static/css/main.84d57157.css",
-    "static/js/main.2cc7c448.js"
+    "static/js/main.8726e6cd.js"
   ]
 }
